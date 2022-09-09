@@ -1,1 +1,4 @@
 # NY-Taxi
+
+Explantation 
+## Methodology
